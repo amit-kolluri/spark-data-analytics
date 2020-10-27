@@ -9,11 +9,14 @@ class MessageLogger:
         self.project_name = project_name
         self.msg = msg
         logging.basicConfig(filename=constants.log_file_name, level=logging.INFO)
-        logging.warning('This will get logged to a file')
-        #print(constants.log_file_name)
+        # logging.warning('This will get logged to a file')
+        # print(constants.log_file_name)
 
-    def logInfo(self):
-        logging.info("'%s'  ::  '%s'    ::  '%s'" % (datetime.now(), self.project_name, self.msg))
+    def logInfo(self, msg):
+        logging.info("'%s'  ::  '%s'    ::  '%s'" % (datetime.now(), self.project_name, msg))
+
+    def logError(self, msg):
+        logging.error("'%s'  ::  '%s'    ::  '%s'" % (datetime.now(), self.project_name, msg))
 
     def updateJobRunId(self):
         print("Aaaa")
