@@ -1,0 +1,5 @@
+{"firstname":"James","middlename":"","lastname":"Smith","dob":"1991-04-01","gender":"M","salary":3000}
+{"firstname":"Michael","middlename":"Rose","lastname":"","dob":"2000-05-19","gender":"M","salary":4000}
+{"firstname":"Robert","middlename":"","lastname":"Williams","dob":"1978-09-05","gender":"M","salary":4000}
+{"firstname":"Maria","middlename":"Anne","lastname":"Jones","dob":"1967-12-01","gender":"F","salary":4000}
+{"firstname":"Jen","middlename":"Mary","lastname":"Brown","dob":"1980-02-17","gender":"F","salary":-1}

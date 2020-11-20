@@ -1,0 +1,4 @@
+INFO:root:'2020-11-04 13:10:27.368908'  ::  'main.py'    ::  'Logger Started'
+INFO:root:'2020-11-04 13:10:34.206584'  ::  'project1.py'    ::  'Reading from CSV file.'
+INFO:root:'2020-11-04 13:10:36.412600'  ::  'project1.py'    ::  'File reading finished successfully.'
+INFO:root:'2020-11-04 13:10:37.020582'  ::  'project1.py'    ::  'Number of records in file: 36634'

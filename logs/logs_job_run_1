@@ -1,4 +1,0 @@
-INFO:root:'2020-10-21 23:57:17.677815'  ::  'main.py'    ::  'Logger Started'
-INFO:root:'2020-10-21 23:57:24.982084'  ::  'project1.py'    ::  'Reading from file.'
-INFO:root:'2020-10-21 23:57:27.159505'  ::  'project1.py'    ::  'File reading finished successfully.'
-INFO:root:'2020-10-21 23:57:27.737618'  ::  'project1.py'    ::  'Number of records in file: 36634'

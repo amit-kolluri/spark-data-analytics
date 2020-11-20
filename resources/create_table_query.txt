@@ -1,0 +1,8 @@
+create table if not exists spark_demo.test_dataframe(
+firstname varchar,
+middlename varchar,
+lastname varchar,
+dob varchar,
+gender varchar,
+salary varchar
+)
